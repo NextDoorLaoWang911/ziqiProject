@@ -1,0 +1,4 @@
+开启项目：   node server.js   npm run server
+
+mlab数据库   1  username   wjp1   pwd  wjp12345
+                    2  username   wjp2   pwd  wjp12345
